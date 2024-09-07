@@ -1,0 +1,25 @@
+let dados = [ {titulo : "Capitulo 1: Cidade Abandonada",
+    descrição : "Nesse capítulo é apresentado para o jogador, o bloco mecânico que se move dentro de uma esteira quando agarrado ou pisado por madeline e o Theo que ao longo do jogo se torna um dos melhores amigos de madeline. O capítulo possui 20 morangos, 1 coração de cristal e 1 fita cassete."},
+{titulo : "Capítulo 2: Ruínas Antigas",
+    descrição : "Agora é apresentado para o jogador, o bloco dos sonhos que faz  madeline dar dash infinitamente na direção escolhida, a badline que é uma parte de madeline e é nesse capítulo que acontece a primeira perseguição do jogo. O capítulo possui 18 morangos, 1 coração de cristal e 1 fita cassete."}, 
+    {titulo :"Capítulo 3: Resort Celestial",
+        descrição : "No resort é apresentado para o jogador, o senhor Oshiro que é o dono do lugar, a sujeirinha que é um inimigo  que pode se acumular e se mover, as chaves que são usadas para abrir determinadas portas e a organização porque para prosseguir no capítulo madeline deve organizar a bagunça do resort. O capítulo possui 25 morangos, 1 coração de cristal e 1 fita cassete."},
+        {titulo : "Capítulo 4: Cordilheira Dourada",
+            descrição : "Nesta etapa temos muitas novidades como o vento, que pode ajudar impulsionando madeline na direção necessaria ou atrapalhar empurrando ela na direção oposta, as bolhas verdes, que dão um pequeno avanço na direção escolhida, as nuvens que funcionam como trampolins, as nuvens rosa que fazem a mesma coisa porém elas desaparecem depois do salto, os blocos direcionais que se movem quando agarrados ou pisados por madeline e a maioria deles pode ter a direção alterada por ela e as bolas de neve que flutuam na direção de madeline e podem ser usadas como plataforma temporária. O capítulo possui 29 morangos, 1 coração de cristal e 1 fita cassete."},
+        
+            {titulo : "Capítulo 5: Templo do Espelho",
+                descrição : "Já na metade do jogo é apresentado para o jogador as bolhas vermelhas que avançam infinitamente na direção escolhida, os seekers que são criaturas que perseguem madeline, os blocos de dash que se movem dentro de uma esteira quando madeline usa o seu dash e o Theo cristalizado porque para prosseguir no capitulo madeline deve encontrar Theo, porém quando ela encontra, ele está preso em um cristal e ela deve ajuda-lo a sair daquele lugar. O capítulo possui 31 morangos, 1 coração de cristal e 1 fita cassete."},
+                {titulo : "Capítulo 6: Reflexão",
+                    descrição :"Nesse momento é apresentado para o jogador, a pena dourada que faz madeline poder voar por algum tempo, os blocos kevin que são ativados quando madeline usa seu dash em um de seus 4 lados e é nessa direção que ele irá, os circulos kevin que impulsionam madeline dependendo de onde ela acerta eles e também é neste capítulo que acontece a única boss fight do jogo que é uma batalha contra badline que no começo do capítulo arremessa madeline para uma caverna na montanha mas que no final do capítulo se torna amiga de madeline que ganha um segundo dash por isso. O capítulo não possui morangos mas possui 1 coração de cristal e 1 fitacassete."},
+                
+                {titulo : "Capítulo 7: O Cume",
+                    descrição : ">Agora com um laço de amizade criado madeline e badline devem escalar a montanha novamente, porém, agora elas conseguem escalar muito mais rapido, pois uma ajuda a outra a subir ainda mais alto, passando por todos os locais visitados antes até chegar ao topo da montanha onde elas encontram uma vista incrivel e maravilhosa que ficam apreciando por um tempo, antes de voltar para casa onde reunem todos que conheceram e madeline faz uma torta com todos os morangos que ela coletou. O capítulo possui 47 morangos, 1 coração de cristal que para ser coletado devem ser coletadas 6 jóias antes e 1 fita cassete."},
+                    {titulo : "Morangos",
+                        descrição : "Você gosta de torta de morango? se sim que bom, pois em Celeste os morangos são colecionáveis encontrados durante o jogo todo e no final dele, Madeline usa todos os morangos coletados para fazer uma torta que fica mais bonita e recheada de acordo com a quantidade que você coletou." },
+                     
+                        {titulo : "Corações de Cristal",
+                            descrição : "Os Corações de cristal são itens encontrados em 3 cores diferentes: azuis que são conseguidos resolvendo algum puzzle escondido nos capítulos, vermelhos que são conseguidos terminando os lados b dos capítulos e os amarelos que são conseguidos terminando os lados c dos capítulos e são usados para desbloquear o capítulo 8: O Núcleo."},
+                            {titulo : "Fitas Cassete",
+                                descrição : "As Fitas cassete são conseguidas ao passar por uma série de plataformas que se alternam em determinado tempo que é marcado na forma de uma música 8 bit e elas são usadas para desbloquear os lados b dos capítulos que são versões mais curtas porémmais difíceis deles."}]
+   
+
