@@ -1,6 +1,6 @@
 Oieeeee!!!
 
-Eu queria dizer que no meu projeto eu dei detalhes sobre cada um dos capítulos e itens  de um jogo eletrônico chamado Celeste que um jogo que eu gosto muito e
+Eu queria dizer que no meu projeto eu dei detalhes sobre cada um dos capítulos e itens  de um jogo eletrônico chamado Celeste que é um jogo que eu gosto muito e
 espero que vocês gostem do meu projeto também. 
 
 obs:eu gostei muito de participar dessa imersão e criar meu primeiro projeto junto com vocês e foi muito divertido e desafiador pois por ser meu primeiro projeto,
